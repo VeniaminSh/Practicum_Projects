@@ -23,5 +23,4 @@
 Pandas, Python.
 Обработка данных, дубликаты, пропуски, логическая индексация, группировка, сортировка
 
----
-**Проект завершен, можно ознакомиться в файле `music_project`**
+**Проект завершен, можно ознакомиться в файле [music_project](https://github.com/VeniaminSh/Practicum_Projects/blob/main/Project%201%20(Музыка%20больших%20городов)/music_project.ipynb)**
