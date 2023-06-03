@@ -8,4 +8,4 @@ PostgreSQL
 
 Подзапросы, JOIN-соединения
 
-**Проект завершен, можно ознакомиться в файле [project on SQL]()**
+**Проект завершен, можно ознакомиться в файле [project on SQL](https://github.com/VeniaminSh/Practicum_Projects/blob/main/6%20Project%20(SQL)%20-%20Исследование%20данных%20об%20инвестициях%20венчурных%20фондов%20в%20компании-стартапы/project%20on%20SQL.ipynb)**
