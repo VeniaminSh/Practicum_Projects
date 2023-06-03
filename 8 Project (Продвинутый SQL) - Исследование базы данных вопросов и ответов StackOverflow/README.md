@@ -9,4 +9,4 @@ PostgreSQL
 
 Oконные функции, подзапросы, JOIN-соединения
 
-**Проект завершен и проверен в тренажере Яндекс.Практикума, можно ознакомиться в файле research_analysis_of_apartments**
+**Проект завершен и проверен в тренажере Яндекс.Практикума, можно ознакомиться в файле [advanced_SQL](https://github.com/VeniaminSh/Practicum_Projects/blob/main/8%20Project%20(Продвинутый%20SQL)%20-%20Исследование%20базы%20данных%20вопросов%20и%20ответов%20StackOverflow/advanced_SQL.ipynb)**
