@@ -11,4 +11,4 @@
 ## Навыки и инструменты:
 Python, Pandas, Matplotlib, исследовательский анализ, визуализация данных, предобработка данных
 
-**Проект завершен, можно ознакомиться в файле [research_analysis_of_apartments]()**
+**Проект завершен, можно ознакомиться в файле [research_analysis_of_apartments](https://github.com/VeniaminSh/Practicum_Projects/blob/main/3%20Project%20(Яндекс%20Недвижимость)%20-%20Исследовательский%20анализ%20данных/research_analysis_of_apartments.ipynb)**
