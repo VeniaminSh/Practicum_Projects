@@ -11,4 +11,4 @@
 ## Навыки и инструменты:
  Python, Pandas, Matplotlib, NumPy, SciPy, описательная статистика, проверка статистических гипотез, исследовательский анализ, визуализация данных, предобработка данных.
  
-**Проект завершен, можно ознакомиться в файле [research_mobile_operator_tariffs](https://github.com/VeniaminSh/Practicum_Projects/blob/main/Project%204%20(Статистический%20анализ%20данных)%20-%20Исследование%20тарифных%20планов%20федерального%20оператора%20сотовой%20связи/research_mobile_operator_tariffs.ipynb)**
+**Проект завершен, можно ознакомиться в файле [research_mobile_operator_tariffs]()**
