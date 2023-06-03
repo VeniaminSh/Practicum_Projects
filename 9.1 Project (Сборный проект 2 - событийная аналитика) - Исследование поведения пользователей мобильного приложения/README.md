@@ -28,4 +28,4 @@
 Python, Pandas, Matplotlib, Datetime, NumPy, SciPy, requests, plotly, 
 событийная аналитика, продуктовые метрики, проверка статистических гипотез, визуализация данных.
 
-Проект завершен, можно ознакомиться в файле [combined_project_2](https://github.com/VeniaminSh/Practicum_Projects/blob/main/Project%2010%20(Сборный%20проект%202%20-%20событийная%20аналитика)%20-%20Исследование%20поведения%20пользователей%20мобильного%20приложения/combined_project_2.ipynb)
+**Проект завершен, можно ознакомиться в файле [combined_project_2](https://github.com/VeniaminSh/Practicum_Projects/blob/main/9.1%20Project%20(Сборный%20проект%202%20-%20событийная%20аналитика)%20-%20Исследование%20поведения%20пользователей%20мобильного%20приложения/combined_project_2.ipynb)**
